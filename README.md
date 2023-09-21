@@ -29,7 +29,7 @@ This Kaggle dataset contains statistics (CSV files) on daily popular YouTube vid
 
 
 ## Architecture Diagram
+![Architecture Diagram](Youtube-Analysis-AWS/Project/architecture.jpeg)
 
-<img src="Youtube-Analysis-AWS/Project/architecture.jpeg">
 
 
